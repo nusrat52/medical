@@ -1,0 +1,257 @@
+.near {
+  padding-top: 50px;
+  padding-bottom: 80px;
+  background: #2179e4;
+  margin-top: 120px;
+}
+
+.near__header {
+  font-family: Roboto;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 47px;
+  letter-spacing: 0em;
+  color: #ffffff;
+  text-align: center;
+}
+
+.near__subHeader {
+  font-family: Roboto;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 28px;
+  letter-spacing: 0em;
+  margin-bottom: 30px;
+  color: #ffffff;
+  text-align: center;
+}
+
+.near__itemHeader {
+  font-family: Roboto;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 14px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #ffffff;
+}
+
+.near__text {
+  font-family: Roboto;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 14px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #ffffff;
+}
+
+.near__item {
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.works__header {
+  font-family: Roboto Slab;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #797979;
+}
+
+.works__subHeader {
+  font-family: Roboto;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #1970e2;
+  margin-bottom: 70px;
+}
+
+.works__img {
+  width: 100%;
+}
+
+.worksItem {
+  display: flex;
+  flex-direction: column;
+}
+
+.worksItem__header {
+  font-family: Roboto Slab;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0em;
+  color: #000000;
+}
+
+.worksItem__subHeader {
+  font-family: Roboto;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 28px;
+  letter-spacing: 0em;
+
+  color: #1970e2;
+}
+
+.worksItem__text {
+  font-family: Roboto;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+}
+
+.worksItem__link {
+  font-family: Roboto;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #6c63ff;
+  text-decoration: none;
+}
+
+.mt-150 {
+  margin-top: 150px !important;
+}
+
+.traveller__header {
+  font-family: Roboto;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #1970e2;
+  margin-bottom: 50px;
+}
+
+.traveller__subHeader {
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #000000;
+  margin-bottom: 50px;
+}
+
+.traveller__itemHeader {
+  font-family: Roboto Slab;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #000000;
+}
+
+.traveller__text {
+  font-family: Roboto;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #000000;
+}
+
+.traveller__final {
+  margin-top: 30px;
+  margin-bottom: 50px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-style: italic;
+  font-weight: 300;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #000000;
+}
+
+.traveller {
+  background: #fafafa;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.monitoring__subHeader{
+    font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 300;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: center;
+color: #000000;
+margin-bottom: 20px;
+
+}
+
+/* .traveller__img{
+    width: 80%;
+} */
+
+.monitoring__text2{
+    font-family: Roboto Slab;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+color: #8F8F8F;
+
+}
+
+.monitoring__header2{
+margin-top: 35px;
+margin-bottom: 15px;
+font-family: Roboto;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 42px;
+letter-spacing: 0em;
+text-align: center;
+color: #000000;
+
+}
+
+.monitoring__text3{
+    color: #000000;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;
+margin-bottom: 80px;    
+}
